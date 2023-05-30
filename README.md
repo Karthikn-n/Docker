@@ -15,6 +15,7 @@
 
 This is the sample image that ran from [localhost:7000](http://localhost:7000)
 
-![Grayscale - Start Bootstrap Theme - Google Chrome 26-05-2023 19_00_31.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b683adbe-23fb-4e5c-a269-93894e7ce7b3/Grayscale_-_Start_Bootstrap_Theme_-_Google_Chrome_26-05-2023_19_00_31.png)
+![Grayscale - Start Bootstrap Theme - Google Chrome 26-05-2023 19_00_31](https://github.com/Karthikn-n/Docker/assets/102584859/2e72ec1e-fd17-473c-8b9f-049648244b0b)
+
 
 - In URL box that you can see [localhost:7000](http://localhost:7000) running.
